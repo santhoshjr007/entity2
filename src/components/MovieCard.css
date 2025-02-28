@@ -1,6 +1,7 @@
 /* src/components/MovieCard.css */
 
 .movie-card {
+  width: 100%   ;
   display: flex;
   border: 1px solid #ddd;
   border-radius: 8px;
